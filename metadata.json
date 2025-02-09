@@ -1,0 +1,9 @@
+{
+  "name": "Dolphin",
+  "symbol": "DOP",
+  "description": "This is a test token created on Solana.",
+  "image": "https://github.com/mastlie/dolphin-token/blob/main/dolphin.png",
+  "decimals": 9,
+  "website": "https://116.193.190.51",
+  "tags": ["utility", "test"]
+}
