@@ -2,8 +2,8 @@
   "name": "Dolphin",
   "symbol": "DOP",
   "description": "This is a test token created on Solana.",
-  "image": "https://github.com/mastlie/dolphin-token/blob/main/dolphin.png",
+  "image": "https://raw.githubusercontent.com/mastlie/dolphin-token/refs/heads/main/dolphin.png",
   "decimals": 9,
-  "website": "https://116.193.190.51",
+  "website": "https://github.com/mastlie/dolphin-token",
   "tags": ["utility", "test"]
 }
